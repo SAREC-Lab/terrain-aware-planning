@@ -13,7 +13,7 @@
   - [Polygon P8](#polygon-p8)
 
 
-Terrain-aware planning leverages deep segmentation of high-resolution satellite imagery to automatically partition operational areas into terrain-specific polygons. We proposed a novel boustrophedon-based coverage path planning strategy that minimizes travel distance and turns. As a result, UAVs can rapidly adapt to complex environments, and autonomously deploy UAVs. **All presented values and demo samples are genarted using high-fideliy physics engine Gazebo couplde with PX4 as its Flight Controller Unit.**  
+Terrain-aware planning leverages deep segmentation of high-resolution satellite imagery to automatically partition operational areas into terrain-specific polygons. We proposed a novel boustrophedon-based coverage path planning strategy that minimizes travel distance and turns. As a result, UAVs can rapidly adapt to complex environments, and autonomously deploy UAVs. **All presented values and demo samples are generated using high-fideliy physics engine Gazebo couplde with PX4 as its Flight Controller Unit.**  
 
 
 
